@@ -29,7 +29,7 @@ Subject to the terms and conditions of this license, The Cavern Studios ("Licens
 
 2. **Bug Fixes and Support:**  
    - The Licensor is responsible for providing bug fixes and support for the File for a period of 30 days from the date of the last commit.  
-   - After 30 days, any additional support, bug fixes, or updates will be subject to additional costs at the Licensor's discretion.  
+   - After 30 days of the last GitHub Commit, any additional support, bug fixes, or updates will be subject to additional costs at the Licensor's discretion.  
 
 **Termination:**  
 This license is effective until terminated. The Licensor may terminate this license at any time if the Licensee breaches any of its terms. Upon termination, the Licensee must cease all use of the File and destroy all copies.  
