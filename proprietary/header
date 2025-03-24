@@ -1,0 +1,31 @@
+/*
+ * {{FILE_NAME}}
+ * 
+ * This file is part of the {{PROJECT}} project and is governed by TheCavern Studios Proprietary License (Version 1.0).
+ * 
+ * Copyright (c) {{YEAR}} {{LICENSOR}}. All rights reserved.
+ * 
+ * LICENSE GRANT:
+ * - You are granted a limited, non-exclusive, non-transferable license to use this file solely in accordance 
+ *   with the terms of TheCavern Studios Proprietary License.
+ * 
+ * CONDITIONS & RESTRICTIONS:
+ * - This file may only be used for personal or internal business purposes.
+ * - Modification, reverse-engineering, or creation of derivative works is strictly prohibited.
+ * - Redistribution, sublicensing, or commercial exploitation of this file without explicit written permission 
+ *   from the Licensor is forbidden.
+ * - All copyright notices, license terms, and proprietary markings must remain intact in all copies or derivatives.
+ * 
+ * CONFIDENTIALITY:
+ * - This file contains proprietary trade secrets of the Licensor. Unauthorized disclosure, reproduction, 
+ *   or distribution is a violation of this license and applicable intellectual property laws.
+ * 
+ * DISCLAIMER:
+ * - This file is provided "AS IS" without warranties of any kind. {{LICENSOR}} disclaims all liability 
+ *   for damages arising from its use or modification.
+ * 
+ * TERMINATION:
+ * - Violation of these terms will result in immediate revocation of your rights under this license.
+ * 
+ * For the full license terms, refer to the LICENSE file distributed with this software.
+ */
